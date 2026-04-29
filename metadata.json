@@ -1,6 +1,6 @@
 {
   "name": "KaarYA — Student Marketplace",
-  "description": "India's first student-only gig marketplace. Students hire students for micro-gigs, build portfolios, and earn while learning.",
+  "description": "India's first student-only gig marketplace. Features secure Razorpay payments and student verification via Firebase.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
